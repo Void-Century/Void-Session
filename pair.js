@@ -58,12 +58,12 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃The_Void SESSION IS 
+┃THE_VOID SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 Void Fox 𖥘
+❶ || Creator = 𖥘 VOID FOX 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VajmyqIJ3jutiAzKgR1v
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
